@@ -1,8 +1,8 @@
-numpy
-opencv-contrib-python
-requests
-zxing-cpp
+numpy==2.2.6
+opencv-contrib-python==4.12.0.88
+requests==2.34.2
+zxing-cpp==3.1.1
 
-# Tuỳ chọn: tăng khả năng đọc ZBar/Data Matrix
+# Optional native decoders (require ZBar/libdmtx on some systems)
 # pyzbar
 # pylibdmtx
