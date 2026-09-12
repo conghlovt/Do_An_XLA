@@ -4,7 +4,6 @@ __pycache__/
 venv/
 env/
 .env
-.git-local/
 
 # Kết quả/debug sinh trong lúc chạy
 out_qr/
